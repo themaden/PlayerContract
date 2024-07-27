@@ -1,6 +1,6 @@
 # Football Player Contract
 
-Contract addreesss = 
+Contract addreesss = 0x06e7B762893091A2943E9c6c80671E05e42708a6;
 
 Bu proje, bir futbol oyuncusunun sözleşme detaylarını yönetmek için Solidity kullanılarak yazılmış bir akıllı sözleşmedir. Sözleşme, maaş ödemeleri, transfer ücretleri, serbest bırakma ücretleri ve performans yönetimi gibi çeşitli futbolcu sözleşmesi özelliklerini içermektedir.
 
